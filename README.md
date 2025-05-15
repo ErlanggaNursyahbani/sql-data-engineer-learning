@@ -1,8 +1,7 @@
 
 # 🔥 SQL Data Engineer Learning Journey! 🚀
 
-Haii! 👋 Selamat datang di perjalanan belajar SQL-ku yang penuh semangat! Repositori ini aku buat sebagai **catatan pribadi** sekaligus **dokumentasi perjalanan belajar SQL** untuk jadi seorang **Data Engineer hebat!** 💪✨
-
+Haii! 👋 Selamat datang di perjalanan belajar SQL-ku! Repositori ini aku buat sebagai **catatan pribadi** sekaligus **dokumentasi perjalanan belajar SQL** untuk jadi seorang **Data Engineer!** 💪✨
 Masih sangat awal banget—tapi every big journey starts with the first step, right? 😄
 
 ---
@@ -12,10 +11,10 @@ Masih sangat awal banget—tapi every big journey starts with the first step, ri
 ```
 sql-data-engineer-learning/
 └── basics/
-    └── 01_basics_sql.sql   # Catatan awal belajar dasar SQL
+    └── 01_sql_basics_orderby_groupby_join.sql   # Catatan awal belajar dasar SQL
 ```
 
-Yep, baru satu file... tapi semangatnya udah 1000%! 💥
+Yep, baru satu file... tapi aku yakin suatu saat akan penuhhh 1000%! 💥
 
 ---
 
@@ -38,10 +37,8 @@ Yep, baru satu file... tapi semangatnya udah 1000%! 💥
 
 ---
 
-## ✨ Progress Hari Ini
-
-> 🔹 Menambahkan file `01_basics_sql.sql` untuk dasar-dasar SQL (SELECT, FROM, WHERE, dan kawan-kawan).
-
+## ✨ Progress Hari Ini (15-95-2025) Day-1
+> 🔹 Menambahkan file `01_sql_basics_orderby_groupby_join.sql` untuk dasar-dasar SQL (SELECT, FROM, WHERE, dan kawan-kawan).
 ---
 
 ## 📌 Catatan
